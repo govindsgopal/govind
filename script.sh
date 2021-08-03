@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo " script files are gere "
+echo " script files are here "
 ls -l
